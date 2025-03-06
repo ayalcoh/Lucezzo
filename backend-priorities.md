@@ -28,7 +28,7 @@
    - Firmware information and update checking
 
 6. **Real-time Communication Layer**
-   - WebSocket or similar for live LED matrix updates
+   - MQTT for live LED matrix updates
    - Status change notifications
    - Connection state monitoring
 
